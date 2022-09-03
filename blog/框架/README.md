@@ -76,7 +76,3 @@ hidden: true
   - [MyBatis-Plus](https://github.com/baomidou/mybatis-plus) - CRUD 扩展插件、代码生成器、分页器等多功能
   - [Mapper](https://github.com/abel533/Mapper) - CRUD 扩展插件
   - [Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) - Mybatis 通用分页插件
-
-## 🚪 传送
-
-◾ 💧 [钝悟的 IT 知识图谱](https://dunwu.github.io/waterdrop/) ◾ 🎯 [钝悟的博客](https://dunwu.github.io/blog/) ◾
