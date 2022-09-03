@@ -54,7 +54,3 @@ hidden: true
   - [Nginx 官网](https://www.nginx.com/)
   - [Nginx 的中文维基](http://tool.oschina.net/apidocs/apidoc?api=nginx-zh)
   - [深入拆解 Tomcat & Jetty](https://time.geekbang.org/column/intro/100027701)
-
-## 🚪 传送
-
-◾ 💧 [钝悟的 IT 知识图谱](https://dunwu.github.io/waterdrop/) ◾ 🎯 [钝悟的博客](https://dunwu.github.io/blog/) ◾
